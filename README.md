@@ -85,7 +85,7 @@ Calculated important business KPIs:
   - Payment mode distribution
   - Time-based spending trend
 - Added slicers for dynamic filtering.
-- Exported dashboard as **PDF**.
+- Exported dashboard as **PDF** https://github.com/Trupti-patil12/customer-expense-analysis/blob/main/costomer_expenses_dashbord.pdf.
 
 ## 📈 Dashboard Features
 - Interactive KPI cards
