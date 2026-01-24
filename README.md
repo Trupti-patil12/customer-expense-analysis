@@ -94,7 +94,7 @@ Calculated important business KPIs:
 - Clean and professional layout
 - Business-focused insights
 
-##  Key Insights
+##  Summary Insights
 - Certain categories show significantly higher spending.
 - A few locations contribute the majority of total expenses.
 - Digital payment modes are more frequently used.
