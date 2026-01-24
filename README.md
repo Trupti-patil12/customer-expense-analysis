@@ -58,7 +58,7 @@ The objective of this project is to analyze customer expense data, clean and val
 - Calculated quartiles (Q1, Q3) and IQR.
 - Detected outliers using the **IQR method**.
 - Visualized outliers using a **Box Plot**.
-- boxplot.png
+- https://github.com/Trupti-patil12/customer-expense-analysis/blob/main/images/boxplot.png
 
 ### Step 4: KPI Calculation
 Calculated important business KPIs:
