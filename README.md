@@ -68,9 +68,9 @@ Calculated important business KPIs:
 - **Number of Transactions**
 
 ### Step 5: Data Visualization in Python
-- **Category-wise spending** using Bar Chart
-- **Payment mode distribution** using Pie Chart
-- **Location-wise spending** using Bar Chart
+- **Category-wise spending** using Bar Chart. https://github.com/Trupti-patil12/customer-expense-analysis/blob/main/images/category_bar.png
+- **Payment mode distribution** using Pie Chart.  https://github.com/Trupti-patil12/customer-expense-analysis/blob/main/images/payment_pie.png
+- **Location-wise spending** using Bar Chart.  https://github.com/Trupti-patil12/customer-expense-analysis/blob/main/images/location_bar.png
 
 ### Step 6: Export Clean Data
 - Exported cleaned and processed data into:
@@ -86,7 +86,7 @@ Calculated important business KPIs:
   - Payment mode distribution
   - Time-based spending trend
 - Added slicers for dynamic filtering.
-- Exported dashboard as **PDF** https://github.com/Trupti-patil12/customer-expense-analysis/blob/main/costomer_expenses_dashbord.pdf.
+-  dashboard as **Screenshot** https://github.com/Trupti-patil12/customer-expense-analysis/blob/main/costomer_expenses_dashbord.png.
 
 ## 📈 Dashboard Features
 - Interactive KPI cards
